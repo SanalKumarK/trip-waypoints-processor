@@ -7,7 +7,7 @@ import java.util.List;
 public class App {
     public static void main(String[] args) {
         if (args == null || args.length == 0) {
-            System.err.println("Usage: java -jar App <absolute_file_path> \n");
+            System.err.println("Usage: java -jar springworks-test-1.0-SNAPSHOT.jar <absolute_file_path> \n");
             System.exit(1);
         }
 
