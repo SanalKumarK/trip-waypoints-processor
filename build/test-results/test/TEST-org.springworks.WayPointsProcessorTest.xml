@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springworks.WayPointsProcessorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-05-18T16:59:43" hostname="SANAL-PC" time="0.112">
+  <properties/>
+  <testcase name="processTripSizeX()" classname="org.springworks.WayPointsProcessorTest" time="0.048"/>
+  <testcase name="processTripSizeX2()" classname="org.springworks.WayPointsProcessorTest" time="0.048"/>
+  <testcase name="processTripSizeX3()" classname="org.springworks.WayPointsProcessorTest" time="0.007"/>
+  <testcase name="processTrip()" classname="org.springworks.WayPointsProcessorTest" time="0.004"/>
+  <system-out><![CDATA[TripReport{distanceSpeeding='4480.054460307197 meters', durationSpeeding='180.0 seconds', totalDuration='4995.0 seconds', totalDistance='124320.23624504519 meters'}
+TripReport{distanceSpeeding='23746.774413398893 meters', durationSpeeding='960.0 seconds', totalDuration='14995.0 seconds', totalDistance='370978.06097808626 meters'}
+TripReport{distanceSpeeding='67.67430454853171 meters', durationSpeeding='5.0 seconds', totalDuration='20.0 seconds', totalDistance='201.132793549162 meters'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
