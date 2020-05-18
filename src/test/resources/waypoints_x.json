@@ -1,0 +1,4025 @@
+[
+  {
+    "timestamp": "May 17, 2020, 11:14:15 PM",
+    "position": {
+      "latitude": 59.335,
+      "longitude": 18.067700000000002
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:14:20 PM",
+    "position": {
+      "latitude": 59.336,
+      "longitude": 18.068700000000003
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:14:25 PM",
+    "position": {
+      "latitude": 59.336999999999996,
+      "longitude": 18.069700000000005
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:14:30 PM",
+    "position": {
+      "latitude": 59.337999999999994,
+      "longitude": 18.070700000000006
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:14:35 PM",
+    "position": {
+      "latitude": 59.33899999999999,
+      "longitude": 18.071700000000007
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:14:40 PM",
+    "position": {
+      "latitude": 59.33999999999999,
+      "longitude": 18.072700000000008
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:14:45 PM",
+    "position": {
+      "latitude": 59.34099999999999,
+      "longitude": 18.07370000000001
+    },
+    "speed": 35.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:14:50 PM",
+    "position": {
+      "latitude": 59.341999999999985,
+      "longitude": 18.07470000000001
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:14:55 PM",
+    "position": {
+      "latitude": 59.34299999999998,
+      "longitude": 18.075700000000012
+    },
+    "speed": 28.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:00 PM",
+    "position": {
+      "latitude": 59.34399999999998,
+      "longitude": 18.076700000000013
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:05 PM",
+    "position": {
+      "latitude": 59.34499999999998,
+      "longitude": 18.077700000000014
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:10 PM",
+    "position": {
+      "latitude": 59.345999999999975,
+      "longitude": 18.078700000000016
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:15 PM",
+    "position": {
+      "latitude": 59.34699999999997,
+      "longitude": 18.079700000000017
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:20 PM",
+    "position": {
+      "latitude": 59.34799999999997,
+      "longitude": 18.080700000000018
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:25 PM",
+    "position": {
+      "latitude": 59.34899999999997,
+      "longitude": 18.08170000000002
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:30 PM",
+    "position": {
+      "latitude": 59.349999999999966,
+      "longitude": 18.08270000000002
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:35 PM",
+    "position": {
+      "latitude": 59.350999999999964,
+      "longitude": 18.08370000000002
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:40 PM",
+    "position": {
+      "latitude": 59.35199999999996,
+      "longitude": 18.084700000000023
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:45 PM",
+    "position": {
+      "latitude": 59.35299999999996,
+      "longitude": 18.085700000000024
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:50 PM",
+    "position": {
+      "latitude": 59.35399999999996,
+      "longitude": 18.086700000000025
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:15:55 PM",
+    "position": {
+      "latitude": 59.354999999999954,
+      "longitude": 18.087700000000027
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:00 PM",
+    "position": {
+      "latitude": 59.35599999999995,
+      "longitude": 18.088700000000028
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:05 PM",
+    "position": {
+      "latitude": 59.35699999999995,
+      "longitude": 18.08970000000003
+    },
+    "speed": 25.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:10 PM",
+    "position": {
+      "latitude": 59.35799999999995,
+      "longitude": 18.09070000000003
+    },
+    "speed": 27.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:15 PM",
+    "position": {
+      "latitude": 59.358999999999945,
+      "longitude": 18.09170000000003
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:20 PM",
+    "position": {
+      "latitude": 59.35999999999994,
+      "longitude": 18.092700000000033
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:25 PM",
+    "position": {
+      "latitude": 59.36099999999994,
+      "longitude": 18.093700000000034
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:30 PM",
+    "position": {
+      "latitude": 59.36199999999994,
+      "longitude": 18.094700000000035
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:35 PM",
+    "position": {
+      "latitude": 59.362999999999936,
+      "longitude": 18.095700000000036
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:40 PM",
+    "position": {
+      "latitude": 59.36399999999993,
+      "longitude": 18.096700000000038
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:45 PM",
+    "position": {
+      "latitude": 59.36499999999993,
+      "longitude": 18.09770000000004
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:50 PM",
+    "position": {
+      "latitude": 59.36599999999993,
+      "longitude": 18.09870000000004
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:16:55 PM",
+    "position": {
+      "latitude": 59.366999999999926,
+      "longitude": 18.09970000000004
+    },
+    "speed": 5.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:00 PM",
+    "position": {
+      "latitude": 59.367999999999924,
+      "longitude": 18.100700000000042
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:05 PM",
+    "position": {
+      "latitude": 59.36899999999992,
+      "longitude": 18.101700000000044
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:10 PM",
+    "position": {
+      "latitude": 59.36999999999992,
+      "longitude": 18.102700000000045
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:15 PM",
+    "position": {
+      "latitude": 59.37099999999992,
+      "longitude": 18.103700000000046
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:20 PM",
+    "position": {
+      "latitude": 59.371999999999915,
+      "longitude": 18.104700000000047
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:25 PM",
+    "position": {
+      "latitude": 59.37299999999991,
+      "longitude": 18.10570000000005
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:30 PM",
+    "position": {
+      "latitude": 59.37399999999991,
+      "longitude": 18.10670000000005
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:35 PM",
+    "position": {
+      "latitude": 59.37499999999991,
+      "longitude": 18.10770000000005
+    },
+    "speed": 37.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:40 PM",
+    "position": {
+      "latitude": 59.375999999999905,
+      "longitude": 18.108700000000052
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:45 PM",
+    "position": {
+      "latitude": 59.3769999999999,
+      "longitude": 18.109700000000053
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:50 PM",
+    "position": {
+      "latitude": 59.3779999999999,
+      "longitude": 18.110700000000055
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:17:55 PM",
+    "position": {
+      "latitude": 59.3789999999999,
+      "longitude": 18.111700000000056
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:00 PM",
+    "position": {
+      "latitude": 59.379999999999896,
+      "longitude": 18.112700000000057
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:05 PM",
+    "position": {
+      "latitude": 59.380999999999894,
+      "longitude": 18.11370000000006
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:10 PM",
+    "position": {
+      "latitude": 59.38199999999989,
+      "longitude": 18.11470000000006
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:15 PM",
+    "position": {
+      "latitude": 59.38299999999989,
+      "longitude": 18.11570000000006
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:20 PM",
+    "position": {
+      "latitude": 59.38399999999989,
+      "longitude": 18.116700000000062
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:25 PM",
+    "position": {
+      "latitude": 59.384999999999884,
+      "longitude": 18.117700000000063
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:30 PM",
+    "position": {
+      "latitude": 59.38599999999988,
+      "longitude": 18.118700000000064
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:35 PM",
+    "position": {
+      "latitude": 59.38699999999988,
+      "longitude": 18.119700000000066
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:40 PM",
+    "position": {
+      "latitude": 59.38799999999988,
+      "longitude": 18.120700000000067
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:45 PM",
+    "position": {
+      "latitude": 59.388999999999875,
+      "longitude": 18.121700000000068
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:50 PM",
+    "position": {
+      "latitude": 59.38999999999987,
+      "longitude": 18.12270000000007
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:18:55 PM",
+    "position": {
+      "latitude": 59.39099999999987,
+      "longitude": 18.12370000000007
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:00 PM",
+    "position": {
+      "latitude": 59.39199999999987,
+      "longitude": 18.12470000000007
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:05 PM",
+    "position": {
+      "latitude": 59.392999999999866,
+      "longitude": 18.125700000000073
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:10 PM",
+    "position": {
+      "latitude": 59.39399999999986,
+      "longitude": 18.126700000000074
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:15 PM",
+    "position": {
+      "latitude": 59.39499999999986,
+      "longitude": 18.127700000000075
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:20 PM",
+    "position": {
+      "latitude": 59.39599999999986,
+      "longitude": 18.128700000000077
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:25 PM",
+    "position": {
+      "latitude": 59.396999999999856,
+      "longitude": 18.129700000000078
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:30 PM",
+    "position": {
+      "latitude": 59.397999999999854,
+      "longitude": 18.13070000000008
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:35 PM",
+    "position": {
+      "latitude": 59.39899999999985,
+      "longitude": 18.13170000000008
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:40 PM",
+    "position": {
+      "latitude": 59.39999999999985,
+      "longitude": 18.13270000000008
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:45 PM",
+    "position": {
+      "latitude": 59.40099999999985,
+      "longitude": 18.133700000000083
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:50 PM",
+    "position": {
+      "latitude": 59.401999999999845,
+      "longitude": 18.134700000000084
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:19:55 PM",
+    "position": {
+      "latitude": 59.40299999999984,
+      "longitude": 18.135700000000085
+    },
+    "speed": 27.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:00 PM",
+    "position": {
+      "latitude": 59.40399999999984,
+      "longitude": 18.136700000000086
+    },
+    "speed": 28.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:05 PM",
+    "position": {
+      "latitude": 59.40499999999984,
+      "longitude": 18.137700000000088
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:10 PM",
+    "position": {
+      "latitude": 59.405999999999835,
+      "longitude": 18.13870000000009
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:15 PM",
+    "position": {
+      "latitude": 59.40699999999983,
+      "longitude": 18.13970000000009
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:20 PM",
+    "position": {
+      "latitude": 59.40799999999983,
+      "longitude": 18.14070000000009
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:25 PM",
+    "position": {
+      "latitude": 59.40899999999983,
+      "longitude": 18.141700000000093
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:30 PM",
+    "position": {
+      "latitude": 59.409999999999826,
+      "longitude": 18.142700000000094
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:35 PM",
+    "position": {
+      "latitude": 59.410999999999824,
+      "longitude": 18.143700000000095
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:40 PM",
+    "position": {
+      "latitude": 59.41199999999982,
+      "longitude": 18.144700000000096
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:45 PM",
+    "position": {
+      "latitude": 59.41299999999982,
+      "longitude": 18.145700000000097
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:50 PM",
+    "position": {
+      "latitude": 59.41399999999982,
+      "longitude": 18.1467000000001
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:20:55 PM",
+    "position": {
+      "latitude": 59.414999999999814,
+      "longitude": 18.1477000000001
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:00 PM",
+    "position": {
+      "latitude": 59.41599999999981,
+      "longitude": 18.1487000000001
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:05 PM",
+    "position": {
+      "latitude": 59.41699999999981,
+      "longitude": 18.149700000000102
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:10 PM",
+    "position": {
+      "latitude": 59.41799999999981,
+      "longitude": 18.150700000000104
+    },
+    "speed": 35.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:15 PM",
+    "position": {
+      "latitude": 59.418999999999805,
+      "longitude": 18.151700000000105
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:20 PM",
+    "position": {
+      "latitude": 59.4199999999998,
+      "longitude": 18.152700000000106
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:25 PM",
+    "position": {
+      "latitude": 59.4209999999998,
+      "longitude": 18.153700000000107
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:30 PM",
+    "position": {
+      "latitude": 59.4219999999998,
+      "longitude": 18.15470000000011
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:35 PM",
+    "position": {
+      "latitude": 59.422999999999796,
+      "longitude": 18.15570000000011
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:40 PM",
+    "position": {
+      "latitude": 59.42399999999979,
+      "longitude": 18.15670000000011
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:45 PM",
+    "position": {
+      "latitude": 59.42499999999979,
+      "longitude": 18.157700000000112
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:50 PM",
+    "position": {
+      "latitude": 59.42599999999979,
+      "longitude": 18.158700000000113
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:21:55 PM",
+    "position": {
+      "latitude": 59.426999999999786,
+      "longitude": 18.159700000000115
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:00 PM",
+    "position": {
+      "latitude": 59.427999999999784,
+      "longitude": 18.160700000000116
+    },
+    "speed": 37.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:05 PM",
+    "position": {
+      "latitude": 59.42899999999978,
+      "longitude": 18.161700000000117
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:10 PM",
+    "position": {
+      "latitude": 59.42999999999978,
+      "longitude": 18.162700000000118
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:15 PM",
+    "position": {
+      "latitude": 59.43099999999978,
+      "longitude": 18.16370000000012
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:20 PM",
+    "position": {
+      "latitude": 59.431999999999775,
+      "longitude": 18.16470000000012
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:25 PM",
+    "position": {
+      "latitude": 59.43299999999977,
+      "longitude": 18.165700000000122
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:30 PM",
+    "position": {
+      "latitude": 59.43399999999977,
+      "longitude": 18.166700000000123
+    },
+    "speed": 25.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:35 PM",
+    "position": {
+      "latitude": 59.43499999999977,
+      "longitude": 18.167700000000124
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:40 PM",
+    "position": {
+      "latitude": 59.435999999999765,
+      "longitude": 18.168700000000126
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:45 PM",
+    "position": {
+      "latitude": 59.43699999999976,
+      "longitude": 18.169700000000127
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:50 PM",
+    "position": {
+      "latitude": 59.43799999999976,
+      "longitude": 18.170700000000128
+    },
+    "speed": 10.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:22:55 PM",
+    "position": {
+      "latitude": 59.43899999999976,
+      "longitude": 18.17170000000013
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:00 PM",
+    "position": {
+      "latitude": 59.439999999999756,
+      "longitude": 18.17270000000013
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:05 PM",
+    "position": {
+      "latitude": 59.440999999999754,
+      "longitude": 18.17370000000013
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:10 PM",
+    "position": {
+      "latitude": 59.44199999999975,
+      "longitude": 18.174700000000133
+    },
+    "speed": 10.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:15 PM",
+    "position": {
+      "latitude": 59.44299999999975,
+      "longitude": 18.175700000000134
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:20 PM",
+    "position": {
+      "latitude": 59.44399999999975,
+      "longitude": 18.176700000000135
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:25 PM",
+    "position": {
+      "latitude": 59.444999999999744,
+      "longitude": 18.177700000000137
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:30 PM",
+    "position": {
+      "latitude": 59.44599999999974,
+      "longitude": 18.178700000000138
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:35 PM",
+    "position": {
+      "latitude": 59.44699999999974,
+      "longitude": 18.17970000000014
+    },
+    "speed": 27.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:40 PM",
+    "position": {
+      "latitude": 59.44799999999974,
+      "longitude": 18.18070000000014
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:45 PM",
+    "position": {
+      "latitude": 59.448999999999735,
+      "longitude": 18.18170000000014
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:50 PM",
+    "position": {
+      "latitude": 59.44999999999973,
+      "longitude": 18.182700000000143
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:23:55 PM",
+    "position": {
+      "latitude": 59.45099999999973,
+      "longitude": 18.183700000000144
+    },
+    "speed": 10.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:00 PM",
+    "position": {
+      "latitude": 59.45199999999973,
+      "longitude": 18.184700000000145
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:05 PM",
+    "position": {
+      "latitude": 59.452999999999726,
+      "longitude": 18.185700000000146
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:10 PM",
+    "position": {
+      "latitude": 59.45399999999972,
+      "longitude": 18.186700000000148
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:15 PM",
+    "position": {
+      "latitude": 59.45499999999972,
+      "longitude": 18.18770000000015
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:20 PM",
+    "position": {
+      "latitude": 59.45599999999972,
+      "longitude": 18.18870000000015
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:25 PM",
+    "position": {
+      "latitude": 59.45699999999972,
+      "longitude": 18.18970000000015
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:30 PM",
+    "position": {
+      "latitude": 59.457999999999714,
+      "longitude": 18.190700000000152
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:35 PM",
+    "position": {
+      "latitude": 59.45899999999971,
+      "longitude": 18.191700000000154
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:40 PM",
+    "position": {
+      "latitude": 59.45999999999971,
+      "longitude": 18.192700000000155
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:45 PM",
+    "position": {
+      "latitude": 59.46099999999971,
+      "longitude": 18.193700000000156
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:50 PM",
+    "position": {
+      "latitude": 59.461999999999705,
+      "longitude": 18.194700000000157
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:24:55 PM",
+    "position": {
+      "latitude": 59.4629999999997,
+      "longitude": 18.19570000000016
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:00 PM",
+    "position": {
+      "latitude": 59.4639999999997,
+      "longitude": 18.19670000000016
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:05 PM",
+    "position": {
+      "latitude": 59.4649999999997,
+      "longitude": 18.19770000000016
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:10 PM",
+    "position": {
+      "latitude": 59.465999999999696,
+      "longitude": 18.198700000000162
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:15 PM",
+    "position": {
+      "latitude": 59.46699999999969,
+      "longitude": 18.199700000000163
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:20 PM",
+    "position": {
+      "latitude": 59.46799999999969,
+      "longitude": 18.200700000000165
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:25 PM",
+    "position": {
+      "latitude": 59.46899999999969,
+      "longitude": 18.201700000000166
+    },
+    "speed": 5.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:30 PM",
+    "position": {
+      "latitude": 59.469999999999686,
+      "longitude": 18.202700000000167
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:35 PM",
+    "position": {
+      "latitude": 59.470999999999684,
+      "longitude": 18.20370000000017
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:40 PM",
+    "position": {
+      "latitude": 59.47199999999968,
+      "longitude": 18.20470000000017
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:45 PM",
+    "position": {
+      "latitude": 59.47299999999968,
+      "longitude": 18.20570000000017
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:50 PM",
+    "position": {
+      "latitude": 59.47399999999968,
+      "longitude": 18.206700000000172
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:25:55 PM",
+    "position": {
+      "latitude": 59.474999999999675,
+      "longitude": 18.207700000000173
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:00 PM",
+    "position": {
+      "latitude": 59.47599999999967,
+      "longitude": 18.208700000000174
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:05 PM",
+    "position": {
+      "latitude": 59.47699999999967,
+      "longitude": 18.209700000000176
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:10 PM",
+    "position": {
+      "latitude": 59.47799999999967,
+      "longitude": 18.210700000000177
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:15 PM",
+    "position": {
+      "latitude": 59.478999999999665,
+      "longitude": 18.211700000000178
+    },
+    "speed": 25.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:20 PM",
+    "position": {
+      "latitude": 59.47999999999966,
+      "longitude": 18.21270000000018
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:25 PM",
+    "position": {
+      "latitude": 59.48099999999966,
+      "longitude": 18.21370000000018
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:30 PM",
+    "position": {
+      "latitude": 59.48199999999966,
+      "longitude": 18.21470000000018
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:35 PM",
+    "position": {
+      "latitude": 59.482999999999656,
+      "longitude": 18.215700000000183
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:40 PM",
+    "position": {
+      "latitude": 59.483999999999654,
+      "longitude": 18.216700000000184
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:45 PM",
+    "position": {
+      "latitude": 59.48499999999965,
+      "longitude": 18.217700000000185
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:50 PM",
+    "position": {
+      "latitude": 59.48599999999965,
+      "longitude": 18.218700000000187
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:26:55 PM",
+    "position": {
+      "latitude": 59.48699999999965,
+      "longitude": 18.219700000000188
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:00 PM",
+    "position": {
+      "latitude": 59.487999999999644,
+      "longitude": 18.22070000000019
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:05 PM",
+    "position": {
+      "latitude": 59.48899999999964,
+      "longitude": 18.22170000000019
+    },
+    "speed": 25.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:10 PM",
+    "position": {
+      "latitude": 59.48999999999964,
+      "longitude": 18.22270000000019
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:15 PM",
+    "position": {
+      "latitude": 59.49099999999964,
+      "longitude": 18.223700000000193
+    },
+    "speed": 27.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:20 PM",
+    "position": {
+      "latitude": 59.491999999999635,
+      "longitude": 18.224700000000194
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:25 PM",
+    "position": {
+      "latitude": 59.49299999999963,
+      "longitude": 18.225700000000195
+    },
+    "speed": 27.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:30 PM",
+    "position": {
+      "latitude": 59.49399999999963,
+      "longitude": 18.226700000000196
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:35 PM",
+    "position": {
+      "latitude": 59.49499999999963,
+      "longitude": 18.227700000000198
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:40 PM",
+    "position": {
+      "latitude": 59.495999999999626,
+      "longitude": 18.2287000000002
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:45 PM",
+    "position": {
+      "latitude": 59.49699999999962,
+      "longitude": 18.2297000000002
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:50 PM",
+    "position": {
+      "latitude": 59.49799999999962,
+      "longitude": 18.2307000000002
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:27:55 PM",
+    "position": {
+      "latitude": 59.49899999999962,
+      "longitude": 18.231700000000203
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:00 PM",
+    "position": {
+      "latitude": 59.499999999999616,
+      "longitude": 18.232700000000204
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:05 PM",
+    "position": {
+      "latitude": 59.500999999999614,
+      "longitude": 18.233700000000205
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:10 PM",
+    "position": {
+      "latitude": 59.50199999999961,
+      "longitude": 18.234700000000206
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:15 PM",
+    "position": {
+      "latitude": 59.50299999999961,
+      "longitude": 18.235700000000207
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:20 PM",
+    "position": {
+      "latitude": 59.50399999999961,
+      "longitude": 18.23670000000021
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:25 PM",
+    "position": {
+      "latitude": 59.504999999999605,
+      "longitude": 18.23770000000021
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:30 PM",
+    "position": {
+      "latitude": 59.5059999999996,
+      "longitude": 18.23870000000021
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:35 PM",
+    "position": {
+      "latitude": 59.5069999999996,
+      "longitude": 18.239700000000212
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:40 PM",
+    "position": {
+      "latitude": 59.5079999999996,
+      "longitude": 18.240700000000214
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:45 PM",
+    "position": {
+      "latitude": 59.508999999999595,
+      "longitude": 18.241700000000215
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:50 PM",
+    "position": {
+      "latitude": 59.50999999999959,
+      "longitude": 18.242700000000216
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:28:55 PM",
+    "position": {
+      "latitude": 59.51099999999959,
+      "longitude": 18.243700000000217
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:00 PM",
+    "position": {
+      "latitude": 59.51199999999959,
+      "longitude": 18.24470000000022
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:05 PM",
+    "position": {
+      "latitude": 59.512999999999586,
+      "longitude": 18.24570000000022
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:10 PM",
+    "position": {
+      "latitude": 59.513999999999584,
+      "longitude": 18.24670000000022
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:15 PM",
+    "position": {
+      "latitude": 59.51499999999958,
+      "longitude": 18.247700000000222
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:20 PM",
+    "position": {
+      "latitude": 59.51599999999958,
+      "longitude": 18.248700000000223
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:25 PM",
+    "position": {
+      "latitude": 59.51699999999958,
+      "longitude": 18.249700000000225
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:30 PM",
+    "position": {
+      "latitude": 59.517999999999574,
+      "longitude": 18.250700000000226
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:35 PM",
+    "position": {
+      "latitude": 59.51899999999957,
+      "longitude": 18.251700000000227
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:40 PM",
+    "position": {
+      "latitude": 59.51999999999957,
+      "longitude": 18.252700000000228
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:45 PM",
+    "position": {
+      "latitude": 59.52099999999957,
+      "longitude": 18.25370000000023
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:50 PM",
+    "position": {
+      "latitude": 59.521999999999565,
+      "longitude": 18.25470000000023
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:29:55 PM",
+    "position": {
+      "latitude": 59.52299999999956,
+      "longitude": 18.255700000000232
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:00 PM",
+    "position": {
+      "latitude": 59.52399999999956,
+      "longitude": 18.256700000000233
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:05 PM",
+    "position": {
+      "latitude": 59.52499999999956,
+      "longitude": 18.257700000000234
+    },
+    "speed": 25.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:10 PM",
+    "position": {
+      "latitude": 59.525999999999556,
+      "longitude": 18.258700000000236
+    },
+    "speed": 35.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:15 PM",
+    "position": {
+      "latitude": 59.52699999999955,
+      "longitude": 18.259700000000237
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:20 PM",
+    "position": {
+      "latitude": 59.52799999999955,
+      "longitude": 18.260700000000238
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:25 PM",
+    "position": {
+      "latitude": 59.52899999999955,
+      "longitude": 18.26170000000024
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:30 PM",
+    "position": {
+      "latitude": 59.529999999999546,
+      "longitude": 18.26270000000024
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:35 PM",
+    "position": {
+      "latitude": 59.530999999999544,
+      "longitude": 18.26370000000024
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:40 PM",
+    "position": {
+      "latitude": 59.53199999999954,
+      "longitude": 18.264700000000243
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:45 PM",
+    "position": {
+      "latitude": 59.53299999999954,
+      "longitude": 18.265700000000244
+    },
+    "speed": 25.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:50 PM",
+    "position": {
+      "latitude": 59.53399999999954,
+      "longitude": 18.266700000000245
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:30:55 PM",
+    "position": {
+      "latitude": 59.534999999999535,
+      "longitude": 18.267700000000247
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:00 PM",
+    "position": {
+      "latitude": 59.53599999999953,
+      "longitude": 18.268700000000248
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:05 PM",
+    "position": {
+      "latitude": 59.53699999999953,
+      "longitude": 18.26970000000025
+    },
+    "speed": 28.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:10 PM",
+    "position": {
+      "latitude": 59.53799999999953,
+      "longitude": 18.27070000000025
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:15 PM",
+    "position": {
+      "latitude": 59.538999999999525,
+      "longitude": 18.27170000000025
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:20 PM",
+    "position": {
+      "latitude": 59.53999999999952,
+      "longitude": 18.272700000000253
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:25 PM",
+    "position": {
+      "latitude": 59.54099999999952,
+      "longitude": 18.273700000000254
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:30 PM",
+    "position": {
+      "latitude": 59.54199999999952,
+      "longitude": 18.274700000000255
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:35 PM",
+    "position": {
+      "latitude": 59.542999999999516,
+      "longitude": 18.275700000000256
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:40 PM",
+    "position": {
+      "latitude": 59.543999999999514,
+      "longitude": 18.276700000000258
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:45 PM",
+    "position": {
+      "latitude": 59.54499999999951,
+      "longitude": 18.27770000000026
+    },
+    "speed": 5.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:50 PM",
+    "position": {
+      "latitude": 59.54599999999951,
+      "longitude": 18.27870000000026
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:31:55 PM",
+    "position": {
+      "latitude": 59.54699999999951,
+      "longitude": 18.27970000000026
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:00 PM",
+    "position": {
+      "latitude": 59.547999999999504,
+      "longitude": 18.280700000000262
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:05 PM",
+    "position": {
+      "latitude": 59.5489999999995,
+      "longitude": 18.281700000000264
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:10 PM",
+    "position": {
+      "latitude": 59.5499999999995,
+      "longitude": 18.282700000000265
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:15 PM",
+    "position": {
+      "latitude": 59.5509999999995,
+      "longitude": 18.283700000000266
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:20 PM",
+    "position": {
+      "latitude": 59.551999999999495,
+      "longitude": 18.284700000000267
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:25 PM",
+    "position": {
+      "latitude": 59.55299999999949,
+      "longitude": 18.28570000000027
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:30 PM",
+    "position": {
+      "latitude": 59.55399999999949,
+      "longitude": 18.28670000000027
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:35 PM",
+    "position": {
+      "latitude": 59.55499999999949,
+      "longitude": 18.28770000000027
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:40 PM",
+    "position": {
+      "latitude": 59.555999999999486,
+      "longitude": 18.288700000000272
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:45 PM",
+    "position": {
+      "latitude": 59.55699999999948,
+      "longitude": 18.289700000000273
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:50 PM",
+    "position": {
+      "latitude": 59.55799999999948,
+      "longitude": 18.290700000000275
+    },
+    "speed": 10.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:32:55 PM",
+    "position": {
+      "latitude": 59.55899999999948,
+      "longitude": 18.291700000000276
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:00 PM",
+    "position": {
+      "latitude": 59.55999999999948,
+      "longitude": 18.292700000000277
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:05 PM",
+    "position": {
+      "latitude": 59.560999999999474,
+      "longitude": 18.29370000000028
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:10 PM",
+    "position": {
+      "latitude": 59.56199999999947,
+      "longitude": 18.29470000000028
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:15 PM",
+    "position": {
+      "latitude": 59.56299999999947,
+      "longitude": 18.29570000000028
+    },
+    "speed": 37.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:20 PM",
+    "position": {
+      "latitude": 59.56399999999947,
+      "longitude": 18.296700000000282
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:25 PM",
+    "position": {
+      "latitude": 59.564999999999465,
+      "longitude": 18.297700000000283
+    },
+    "speed": 5.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:30 PM",
+    "position": {
+      "latitude": 59.56599999999946,
+      "longitude": 18.298700000000284
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:35 PM",
+    "position": {
+      "latitude": 59.56699999999946,
+      "longitude": 18.299700000000286
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:40 PM",
+    "position": {
+      "latitude": 59.56799999999946,
+      "longitude": 18.300700000000287
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:45 PM",
+    "position": {
+      "latitude": 59.568999999999455,
+      "longitude": 18.301700000000288
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:50 PM",
+    "position": {
+      "latitude": 59.56999999999945,
+      "longitude": 18.30270000000029
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:33:55 PM",
+    "position": {
+      "latitude": 59.57099999999945,
+      "longitude": 18.30370000000029
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:00 PM",
+    "position": {
+      "latitude": 59.57199999999945,
+      "longitude": 18.30470000000029
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:05 PM",
+    "position": {
+      "latitude": 59.572999999999446,
+      "longitude": 18.305700000000293
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:10 PM",
+    "position": {
+      "latitude": 59.573999999999444,
+      "longitude": 18.306700000000294
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:15 PM",
+    "position": {
+      "latitude": 59.57499999999944,
+      "longitude": 18.307700000000295
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:20 PM",
+    "position": {
+      "latitude": 59.57599999999944,
+      "longitude": 18.308700000000297
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:25 PM",
+    "position": {
+      "latitude": 59.57699999999944,
+      "longitude": 18.309700000000298
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:30 PM",
+    "position": {
+      "latitude": 59.577999999999435,
+      "longitude": 18.3107000000003
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:35 PM",
+    "position": {
+      "latitude": 59.57899999999943,
+      "longitude": 18.3117000000003
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:40 PM",
+    "position": {
+      "latitude": 59.57999999999943,
+      "longitude": 18.3127000000003
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:45 PM",
+    "position": {
+      "latitude": 59.58099999999943,
+      "longitude": 18.313700000000303
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:50 PM",
+    "position": {
+      "latitude": 59.581999999999425,
+      "longitude": 18.314700000000304
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:34:55 PM",
+    "position": {
+      "latitude": 59.58299999999942,
+      "longitude": 18.315700000000305
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:00 PM",
+    "position": {
+      "latitude": 59.58399999999942,
+      "longitude": 18.316700000000306
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:05 PM",
+    "position": {
+      "latitude": 59.58499999999942,
+      "longitude": 18.317700000000308
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:10 PM",
+    "position": {
+      "latitude": 59.585999999999416,
+      "longitude": 18.31870000000031
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:15 PM",
+    "position": {
+      "latitude": 59.58699999999941,
+      "longitude": 18.31970000000031
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:20 PM",
+    "position": {
+      "latitude": 59.58799999999941,
+      "longitude": 18.32070000000031
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:25 PM",
+    "position": {
+      "latitude": 59.58899999999941,
+      "longitude": 18.321700000000313
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:30 PM",
+    "position": {
+      "latitude": 59.58999999999941,
+      "longitude": 18.322700000000314
+    },
+    "speed": 37.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:35 PM",
+    "position": {
+      "latitude": 59.590999999999404,
+      "longitude": 18.323700000000315
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:40 PM",
+    "position": {
+      "latitude": 59.5919999999994,
+      "longitude": 18.324700000000316
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:45 PM",
+    "position": {
+      "latitude": 59.5929999999994,
+      "longitude": 18.325700000000317
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:50 PM",
+    "position": {
+      "latitude": 59.5939999999994,
+      "longitude": 18.32670000000032
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:35:55 PM",
+    "position": {
+      "latitude": 59.594999999999395,
+      "longitude": 18.32770000000032
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:00 PM",
+    "position": {
+      "latitude": 59.59599999999939,
+      "longitude": 18.32870000000032
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:05 PM",
+    "position": {
+      "latitude": 59.59699999999939,
+      "longitude": 18.329700000000322
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:10 PM",
+    "position": {
+      "latitude": 59.59799999999939,
+      "longitude": 18.330700000000324
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:15 PM",
+    "position": {
+      "latitude": 59.598999999999386,
+      "longitude": 18.331700000000325
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:20 PM",
+    "position": {
+      "latitude": 59.59999999999938,
+      "longitude": 18.332700000000326
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:25 PM",
+    "position": {
+      "latitude": 59.60099999999938,
+      "longitude": 18.333700000000327
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:30 PM",
+    "position": {
+      "latitude": 59.60199999999938,
+      "longitude": 18.33470000000033
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:35 PM",
+    "position": {
+      "latitude": 59.602999999999376,
+      "longitude": 18.33570000000033
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:40 PM",
+    "position": {
+      "latitude": 59.603999999999374,
+      "longitude": 18.33670000000033
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:45 PM",
+    "position": {
+      "latitude": 59.60499999999937,
+      "longitude": 18.337700000000332
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:50 PM",
+    "position": {
+      "latitude": 59.60599999999937,
+      "longitude": 18.338700000000333
+    },
+    "speed": 28.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:36:55 PM",
+    "position": {
+      "latitude": 59.60699999999937,
+      "longitude": 18.339700000000335
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:00 PM",
+    "position": {
+      "latitude": 59.607999999999365,
+      "longitude": 18.340700000000336
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:05 PM",
+    "position": {
+      "latitude": 59.60899999999936,
+      "longitude": 18.341700000000337
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:10 PM",
+    "position": {
+      "latitude": 59.60999999999936,
+      "longitude": 18.342700000000338
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:15 PM",
+    "position": {
+      "latitude": 59.61099999999936,
+      "longitude": 18.34370000000034
+    },
+    "speed": 28.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:20 PM",
+    "position": {
+      "latitude": 59.611999999999355,
+      "longitude": 18.34470000000034
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:25 PM",
+    "position": {
+      "latitude": 59.61299999999935,
+      "longitude": 18.345700000000342
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:30 PM",
+    "position": {
+      "latitude": 59.61399999999935,
+      "longitude": 18.346700000000343
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:35 PM",
+    "position": {
+      "latitude": 59.61499999999935,
+      "longitude": 18.347700000000344
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:40 PM",
+    "position": {
+      "latitude": 59.615999999999346,
+      "longitude": 18.348700000000346
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:45 PM",
+    "position": {
+      "latitude": 59.616999999999344,
+      "longitude": 18.349700000000347
+    },
+    "speed": 10.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:50 PM",
+    "position": {
+      "latitude": 59.61799999999934,
+      "longitude": 18.350700000000348
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:37:55 PM",
+    "position": {
+      "latitude": 59.61899999999934,
+      "longitude": 18.35170000000035
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:00 PM",
+    "position": {
+      "latitude": 59.61999999999934,
+      "longitude": 18.35270000000035
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:05 PM",
+    "position": {
+      "latitude": 59.620999999999334,
+      "longitude": 18.35370000000035
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:10 PM",
+    "position": {
+      "latitude": 59.62199999999933,
+      "longitude": 18.354700000000353
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:15 PM",
+    "position": {
+      "latitude": 59.62299999999933,
+      "longitude": 18.355700000000354
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:20 PM",
+    "position": {
+      "latitude": 59.62399999999933,
+      "longitude": 18.356700000000355
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:25 PM",
+    "position": {
+      "latitude": 59.624999999999325,
+      "longitude": 18.357700000000357
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:30 PM",
+    "position": {
+      "latitude": 59.62599999999932,
+      "longitude": 18.358700000000358
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:35 PM",
+    "position": {
+      "latitude": 59.62699999999932,
+      "longitude": 18.35970000000036
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:40 PM",
+    "position": {
+      "latitude": 59.62799999999932,
+      "longitude": 18.36070000000036
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:45 PM",
+    "position": {
+      "latitude": 59.628999999999316,
+      "longitude": 18.36170000000036
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:50 PM",
+    "position": {
+      "latitude": 59.62999999999931,
+      "longitude": 18.362700000000363
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:38:55 PM",
+    "position": {
+      "latitude": 59.63099999999931,
+      "longitude": 18.363700000000364
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:00 PM",
+    "position": {
+      "latitude": 59.63199999999931,
+      "longitude": 18.364700000000365
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:05 PM",
+    "position": {
+      "latitude": 59.632999999999306,
+      "longitude": 18.365700000000366
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:10 PM",
+    "position": {
+      "latitude": 59.633999999999304,
+      "longitude": 18.366700000000368
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:15 PM",
+    "position": {
+      "latitude": 59.6349999999993,
+      "longitude": 18.36770000000037
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:20 PM",
+    "position": {
+      "latitude": 59.6359999999993,
+      "longitude": 18.36870000000037
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:25 PM",
+    "position": {
+      "latitude": 59.6369999999993,
+      "longitude": 18.36970000000037
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:30 PM",
+    "position": {
+      "latitude": 59.637999999999295,
+      "longitude": 18.370700000000372
+    },
+    "speed": 31.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:35 PM",
+    "position": {
+      "latitude": 59.63899999999929,
+      "longitude": 18.371700000000374
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:40 PM",
+    "position": {
+      "latitude": 59.63999999999929,
+      "longitude": 18.372700000000375
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:45 PM",
+    "position": {
+      "latitude": 59.64099999999929,
+      "longitude": 18.373700000000376
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:50 PM",
+    "position": {
+      "latitude": 59.641999999999285,
+      "longitude": 18.374700000000377
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:39:55 PM",
+    "position": {
+      "latitude": 59.64299999999928,
+      "longitude": 18.37570000000038
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:00 PM",
+    "position": {
+      "latitude": 59.64399999999928,
+      "longitude": 18.37670000000038
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:05 PM",
+    "position": {
+      "latitude": 59.64499999999928,
+      "longitude": 18.37770000000038
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:10 PM",
+    "position": {
+      "latitude": 59.645999999999276,
+      "longitude": 18.378700000000382
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:15 PM",
+    "position": {
+      "latitude": 59.646999999999274,
+      "longitude": 18.379700000000383
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:20 PM",
+    "position": {
+      "latitude": 59.64799999999927,
+      "longitude": 18.380700000000385
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:25 PM",
+    "position": {
+      "latitude": 59.64899999999927,
+      "longitude": 18.381700000000386
+    },
+    "speed": 4.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:30 PM",
+    "position": {
+      "latitude": 59.64999999999927,
+      "longitude": 18.382700000000387
+    },
+    "speed": 19.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:35 PM",
+    "position": {
+      "latitude": 59.650999999999264,
+      "longitude": 18.38370000000039
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:40 PM",
+    "position": {
+      "latitude": 59.65199999999926,
+      "longitude": 18.38470000000039
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:45 PM",
+    "position": {
+      "latitude": 59.65299999999926,
+      "longitude": 18.38570000000039
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:50 PM",
+    "position": {
+      "latitude": 59.65399999999926,
+      "longitude": 18.386700000000392
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:40:55 PM",
+    "position": {
+      "latitude": 59.654999999999255,
+      "longitude": 18.387700000000393
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:00 PM",
+    "position": {
+      "latitude": 59.65599999999925,
+      "longitude": 18.388700000000394
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:05 PM",
+    "position": {
+      "latitude": 59.65699999999925,
+      "longitude": 18.389700000000396
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:10 PM",
+    "position": {
+      "latitude": 59.65799999999925,
+      "longitude": 18.390700000000397
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:15 PM",
+    "position": {
+      "latitude": 59.658999999999246,
+      "longitude": 18.391700000000398
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:20 PM",
+    "position": {
+      "latitude": 59.65999999999924,
+      "longitude": 18.3927000000004
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:25 PM",
+    "position": {
+      "latitude": 59.66099999999924,
+      "longitude": 18.3937000000004
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:30 PM",
+    "position": {
+      "latitude": 59.66199999999924,
+      "longitude": 18.3947000000004
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:35 PM",
+    "position": {
+      "latitude": 59.662999999999236,
+      "longitude": 18.395700000000403
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:40 PM",
+    "position": {
+      "latitude": 59.663999999999234,
+      "longitude": 18.396700000000404
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:45 PM",
+    "position": {
+      "latitude": 59.66499999999923,
+      "longitude": 18.397700000000405
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:50 PM",
+    "position": {
+      "latitude": 59.66599999999923,
+      "longitude": 18.398700000000407
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:41:55 PM",
+    "position": {
+      "latitude": 59.66699999999923,
+      "longitude": 18.399700000000408
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:00 PM",
+    "position": {
+      "latitude": 59.667999999999225,
+      "longitude": 18.40070000000041
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:05 PM",
+    "position": {
+      "latitude": 59.66899999999922,
+      "longitude": 18.40170000000041
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:10 PM",
+    "position": {
+      "latitude": 59.66999999999922,
+      "longitude": 18.40270000000041
+    },
+    "speed": 12.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:15 PM",
+    "position": {
+      "latitude": 59.67099999999922,
+      "longitude": 18.403700000000413
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:20 PM",
+    "position": {
+      "latitude": 59.671999999999215,
+      "longitude": 18.404700000000414
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:25 PM",
+    "position": {
+      "latitude": 59.67299999999921,
+      "longitude": 18.405700000000415
+    },
+    "speed": 10.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:30 PM",
+    "position": {
+      "latitude": 59.67399999999921,
+      "longitude": 18.406700000000416
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:35 PM",
+    "position": {
+      "latitude": 59.67499999999921,
+      "longitude": 18.407700000000418
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:40 PM",
+    "position": {
+      "latitude": 59.675999999999206,
+      "longitude": 18.40870000000042
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:45 PM",
+    "position": {
+      "latitude": 59.676999999999204,
+      "longitude": 18.40970000000042
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:50 PM",
+    "position": {
+      "latitude": 59.6779999999992,
+      "longitude": 18.41070000000042
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:42:55 PM",
+    "position": {
+      "latitude": 59.6789999999992,
+      "longitude": 18.411700000000423
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:00 PM",
+    "position": {
+      "latitude": 59.6799999999992,
+      "longitude": 18.412700000000424
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:05 PM",
+    "position": {
+      "latitude": 59.680999999999194,
+      "longitude": 18.413700000000425
+    },
+    "speed": 30.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:10 PM",
+    "position": {
+      "latitude": 59.68199999999919,
+      "longitude": 18.414700000000426
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:15 PM",
+    "position": {
+      "latitude": 59.68299999999919,
+      "longitude": 18.415700000000427
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:20 PM",
+    "position": {
+      "latitude": 59.68399999999919,
+      "longitude": 18.41670000000043
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:25 PM",
+    "position": {
+      "latitude": 59.684999999999185,
+      "longitude": 18.41770000000043
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:30 PM",
+    "position": {
+      "latitude": 59.68599999999918,
+      "longitude": 18.41870000000043
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:35 PM",
+    "position": {
+      "latitude": 59.68699999999918,
+      "longitude": 18.419700000000432
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:40 PM",
+    "position": {
+      "latitude": 59.68799999999918,
+      "longitude": 18.420700000000434
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:45 PM",
+    "position": {
+      "latitude": 59.688999999999176,
+      "longitude": 18.421700000000435
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:50 PM",
+    "position": {
+      "latitude": 59.68999999999917,
+      "longitude": 18.422700000000436
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:43:55 PM",
+    "position": {
+      "latitude": 59.69099999999917,
+      "longitude": 18.423700000000437
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:00 PM",
+    "position": {
+      "latitude": 59.69199999999917,
+      "longitude": 18.42470000000044
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:05 PM",
+    "position": {
+      "latitude": 59.69299999999917,
+      "longitude": 18.42570000000044
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:10 PM",
+    "position": {
+      "latitude": 59.693999999999164,
+      "longitude": 18.42670000000044
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:15 PM",
+    "position": {
+      "latitude": 59.69499999999916,
+      "longitude": 18.427700000000442
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:20 PM",
+    "position": {
+      "latitude": 59.69599999999916,
+      "longitude": 18.428700000000443
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:25 PM",
+    "position": {
+      "latitude": 59.69699999999916,
+      "longitude": 18.429700000000445
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:30 PM",
+    "position": {
+      "latitude": 59.697999999999155,
+      "longitude": 18.430700000000446
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:35 PM",
+    "position": {
+      "latitude": 59.69899999999915,
+      "longitude": 18.431700000000447
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:40 PM",
+    "position": {
+      "latitude": 59.69999999999915,
+      "longitude": 18.432700000000448
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:45 PM",
+    "position": {
+      "latitude": 59.70099999999915,
+      "longitude": 18.43370000000045
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:50 PM",
+    "position": {
+      "latitude": 59.701999999999146,
+      "longitude": 18.43470000000045
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:44:55 PM",
+    "position": {
+      "latitude": 59.70299999999914,
+      "longitude": 18.435700000000452
+    },
+    "speed": 5.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:00 PM",
+    "position": {
+      "latitude": 59.70399999999914,
+      "longitude": 18.436700000000453
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:05 PM",
+    "position": {
+      "latitude": 59.70499999999914,
+      "longitude": 18.437700000000454
+    },
+    "speed": 25.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:10 PM",
+    "position": {
+      "latitude": 59.705999999999136,
+      "longitude": 18.438700000000456
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:15 PM",
+    "position": {
+      "latitude": 59.706999999999134,
+      "longitude": 18.439700000000457
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:20 PM",
+    "position": {
+      "latitude": 59.70799999999913,
+      "longitude": 18.440700000000458
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:25 PM",
+    "position": {
+      "latitude": 59.70899999999913,
+      "longitude": 18.44170000000046
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:30 PM",
+    "position": {
+      "latitude": 59.70999999999913,
+      "longitude": 18.44270000000046
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:35 PM",
+    "position": {
+      "latitude": 59.710999999999125,
+      "longitude": 18.44370000000046
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:40 PM",
+    "position": {
+      "latitude": 59.71199999999912,
+      "longitude": 18.444700000000463
+    },
+    "speed": 19.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:45 PM",
+    "position": {
+      "latitude": 59.71299999999912,
+      "longitude": 18.445700000000464
+    },
+    "speed": 5.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:50 PM",
+    "position": {
+      "latitude": 59.71399999999912,
+      "longitude": 18.446700000000465
+    },
+    "speed": 28.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:45:55 PM",
+    "position": {
+      "latitude": 59.714999999999115,
+      "longitude": 18.447700000000467
+    },
+    "speed": 38.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:00 PM",
+    "position": {
+      "latitude": 59.71599999999911,
+      "longitude": 18.448700000000468
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:05 PM",
+    "position": {
+      "latitude": 59.71699999999911,
+      "longitude": 18.44970000000047
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:10 PM",
+    "position": {
+      "latitude": 59.71799999999911,
+      "longitude": 18.45070000000047
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:15 PM",
+    "position": {
+      "latitude": 59.718999999999106,
+      "longitude": 18.45170000000047
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:20 PM",
+    "position": {
+      "latitude": 59.719999999999104,
+      "longitude": 18.452700000000473
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:25 PM",
+    "position": {
+      "latitude": 59.7209999999991,
+      "longitude": 18.453700000000474
+    },
+    "speed": 11.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:30 PM",
+    "position": {
+      "latitude": 59.7219999999991,
+      "longitude": 18.454700000000475
+    },
+    "speed": 37.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:35 PM",
+    "position": {
+      "latitude": 59.7229999999991,
+      "longitude": 18.455700000000476
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:40 PM",
+    "position": {
+      "latitude": 59.723999999999094,
+      "longitude": 18.456700000000478
+    },
+    "speed": 36.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:45 PM",
+    "position": {
+      "latitude": 59.72499999999909,
+      "longitude": 18.45770000000048
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:50 PM",
+    "position": {
+      "latitude": 59.72599999999909,
+      "longitude": 18.45870000000048
+    },
+    "speed": 25.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:46:55 PM",
+    "position": {
+      "latitude": 59.72699999999909,
+      "longitude": 18.45970000000048
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:00 PM",
+    "position": {
+      "latitude": 59.727999999999085,
+      "longitude": 18.460700000000482
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:05 PM",
+    "position": {
+      "latitude": 59.72899999999908,
+      "longitude": 18.461700000000484
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:10 PM",
+    "position": {
+      "latitude": 59.72999999999908,
+      "longitude": 18.462700000000485
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:15 PM",
+    "position": {
+      "latitude": 59.73099999999908,
+      "longitude": 18.463700000000486
+    },
+    "speed": 7.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:20 PM",
+    "position": {
+      "latitude": 59.731999999999076,
+      "longitude": 18.464700000000487
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:25 PM",
+    "position": {
+      "latitude": 59.73299999999907,
+      "longitude": 18.46570000000049
+    },
+    "speed": 2.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:30 PM",
+    "position": {
+      "latitude": 59.73399999999907,
+      "longitude": 18.46670000000049
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:35 PM",
+    "position": {
+      "latitude": 59.73499999999907,
+      "longitude": 18.46770000000049
+    },
+    "speed": 0.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:40 PM",
+    "position": {
+      "latitude": 59.735999999999066,
+      "longitude": 18.468700000000492
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:45 PM",
+    "position": {
+      "latitude": 59.736999999999064,
+      "longitude": 18.469700000000493
+    },
+    "speed": 16.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:50 PM",
+    "position": {
+      "latitude": 59.73799999999906,
+      "longitude": 18.470700000000495
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:47:55 PM",
+    "position": {
+      "latitude": 59.73899999999906,
+      "longitude": 18.471700000000496
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:00 PM",
+    "position": {
+      "latitude": 59.73999999999906,
+      "longitude": 18.472700000000497
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:05 PM",
+    "position": {
+      "latitude": 59.740999999999055,
+      "longitude": 18.4737000000005
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:10 PM",
+    "position": {
+      "latitude": 59.74199999999905,
+      "longitude": 18.4747000000005
+    },
+    "speed": 35.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:15 PM",
+    "position": {
+      "latitude": 59.74299999999905,
+      "longitude": 18.4757000000005
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:20 PM",
+    "position": {
+      "latitude": 59.74399999999905,
+      "longitude": 18.476700000000502
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:25 PM",
+    "position": {
+      "latitude": 59.744999999999045,
+      "longitude": 18.477700000000503
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:30 PM",
+    "position": {
+      "latitude": 59.74599999999904,
+      "longitude": 18.478700000000504
+    },
+    "speed": 13.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:35 PM",
+    "position": {
+      "latitude": 59.74699999999904,
+      "longitude": 18.479700000000506
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:40 PM",
+    "position": {
+      "latitude": 59.74799999999904,
+      "longitude": 18.480700000000507
+    },
+    "speed": 26.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:45 PM",
+    "position": {
+      "latitude": 59.748999999999036,
+      "longitude": 18.481700000000508
+    },
+    "speed": 37.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:50 PM",
+    "position": {
+      "latitude": 59.749999999999034,
+      "longitude": 18.48270000000051
+    },
+    "speed": 14.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:48:55 PM",
+    "position": {
+      "latitude": 59.75099999999903,
+      "longitude": 18.48370000000051
+    },
+    "speed": 19.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:00 PM",
+    "position": {
+      "latitude": 59.75199999999903,
+      "longitude": 18.48470000000051
+    },
+    "speed": 5.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:05 PM",
+    "position": {
+      "latitude": 59.75299999999903,
+      "longitude": 18.485700000000513
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:10 PM",
+    "position": {
+      "latitude": 59.753999999999024,
+      "longitude": 18.486700000000514
+    },
+    "speed": 10.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:15 PM",
+    "position": {
+      "latitude": 59.75499999999902,
+      "longitude": 18.487700000000515
+    },
+    "speed": 9.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:20 PM",
+    "position": {
+      "latitude": 59.75599999999902,
+      "longitude": 18.488700000000517
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:25 PM",
+    "position": {
+      "latitude": 59.75699999999902,
+      "longitude": 18.489700000000518
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:30 PM",
+    "position": {
+      "latitude": 59.757999999999015,
+      "longitude": 18.49070000000052
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:35 PM",
+    "position": {
+      "latitude": 59.75899999999901,
+      "longitude": 18.49170000000052
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:40 PM",
+    "position": {
+      "latitude": 59.75999999999901,
+      "longitude": 18.49270000000052
+    },
+    "speed": 23.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:45 PM",
+    "position": {
+      "latitude": 59.76099999999901,
+      "longitude": 18.493700000000523
+    },
+    "speed": 27.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:50 PM",
+    "position": {
+      "latitude": 59.761999999999006,
+      "longitude": 18.494700000000524
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:49:55 PM",
+    "position": {
+      "latitude": 59.762999999999,
+      "longitude": 18.495700000000525
+    },
+    "speed": 19.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:00 PM",
+    "position": {
+      "latitude": 59.763999999999,
+      "longitude": 18.496700000000526
+    },
+    "speed": 6.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:05 PM",
+    "position": {
+      "latitude": 59.764999999999,
+      "longitude": 18.497700000000528
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:10 PM",
+    "position": {
+      "latitude": 59.765999999998996,
+      "longitude": 18.49870000000053
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:15 PM",
+    "position": {
+      "latitude": 59.766999999998994,
+      "longitude": 18.49970000000053
+    },
+    "speed": 8.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:20 PM",
+    "position": {
+      "latitude": 59.76799999999899,
+      "longitude": 18.50070000000053
+    },
+    "speed": 29.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:25 PM",
+    "position": {
+      "latitude": 59.76899999999899,
+      "longitude": 18.501700000000532
+    },
+    "speed": 22.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:30 PM",
+    "position": {
+      "latitude": 59.76999999999899,
+      "longitude": 18.502700000000534
+    },
+    "speed": 21.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:35 PM",
+    "position": {
+      "latitude": 59.770999999998985,
+      "longitude": 18.503700000000535
+    },
+    "speed": 32.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:40 PM",
+    "position": {
+      "latitude": 59.77199999999898,
+      "longitude": 18.504700000000536
+    },
+    "speed": 15.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:45 PM",
+    "position": {
+      "latitude": 59.77299999999898,
+      "longitude": 18.505700000000537
+    },
+    "speed": 33.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:50 PM",
+    "position": {
+      "latitude": 59.77399999999898,
+      "longitude": 18.50670000000054
+    },
+    "speed": 24.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:50:55 PM",
+    "position": {
+      "latitude": 59.774999999998975,
+      "longitude": 18.50770000000054
+    },
+    "speed": 1.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:51:00 PM",
+    "position": {
+      "latitude": 59.77599999999897,
+      "longitude": 18.50870000000054
+    },
+    "speed": 3.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:51:05 PM",
+    "position": {
+      "latitude": 59.77699999999897,
+      "longitude": 18.509700000000542
+    },
+    "speed": 34.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:51:10 PM",
+    "position": {
+      "latitude": 59.77799999999897,
+      "longitude": 18.510700000000543
+    },
+    "speed": 18.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:51:15 PM",
+    "position": {
+      "latitude": 59.778999999998966,
+      "longitude": 18.511700000000545
+    },
+    "speed": 39.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:51:20 PM",
+    "position": {
+      "latitude": 59.779999999998964,
+      "longitude": 18.512700000000546
+    },
+    "speed": 20.0,
+    "speed_limit": 30.0
+  },
+  {
+    "timestamp": "May 17, 2020, 11:51:25 PM",
+    "position": {
+      "latitude": 59.78099999999896,
+      "longitude": 18.513700000000547
+    },
+    "speed": 17.0,
+    "speed_limit": 30.0
+  }
+]
