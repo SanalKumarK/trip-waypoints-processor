@@ -1,40 +1,15 @@
 package org.springworks.entity;
 
 public class TripReport {
-    private double distanceSpeeding;
-    private double durationSpeeding;
-    private double totalDuration;
-    private double totalDistance;
+    public final double distanceSpeeding;
+    public final double durationSpeeding;
+    public final double totalDuration;
+    public final double totalDistance;
 
-    public double getDistanceSpeeding() {
-        return distanceSpeeding;
-    }
-
-    public void setDistanceSpeeding(double distanceSpeeding) {
+    public TripReport(double distanceSpeeding, double durationSpeeding, double totalDuration, double totalDistance) {
         this.distanceSpeeding = distanceSpeeding;
-    }
-
-    public double getDurationSpeeding() {
-        return durationSpeeding;
-    }
-
-    public void setDurationSpeeding(double durationSpeeding) {
         this.durationSpeeding = durationSpeeding;
-    }
-
-    public double getTotalDuration() {
-        return totalDuration;
-    }
-
-    public void setTotalDuration(double totalDuration) {
         this.totalDuration = totalDuration;
-    }
-
-    public double getTotalDistance() {
-        return totalDistance;
-    }
-
-    public void setTotalDistance(double totalDistance) {
         this.totalDistance = totalDistance;
     }
 

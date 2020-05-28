@@ -1,43 +1,18 @@
 package org.springworks.entity;
 
-import java.util.Date;
+import java.time.Instant;
 
 public class WayPoint {
-    private Date timestamp;
-    private Position position;
-    private double speed;
-    private double speed_limit;
+    public final Instant timestamp;
+    public final Position position;
+    public final double speed;
+    public final double speedLimit;
 
-    public double getSpeed() {
-        return speed;
-    }
-
-    public void setSpeed(double speed) {
-        this.speed = speed;
-    }
-
-    public double getSpeed_limit() {
-        return speed_limit;
-    }
-
-    public void setSpeed_limit(double speed_limit) {
-        this.speed_limit = speed_limit;
-    }
-
-    public Date getTimestamp() {
-        return timestamp;
-    }
-
-    public void setTimestamp(Date timestamp) {
-        this.timestamp = timestamp;
-    }
-
-    public Position getPosition() {
-        return position;
-    }
-
-    public void setPosition(Position position) {
+    public WayPoint(Instant instant, Position position, double speed, double speedLimit) {
+        this.timestamp = instant;
         this.position = position;
+        this.speed = speed;
+        this.speedLimit = speedLimit;
     }
 
     @Override
@@ -46,7 +21,7 @@ public class WayPoint {
                 "timestamp=" + timestamp +
                 ", position=" + position +
                 ", speed=" + speed +
-                ", speed_limit=" + speed_limit +
+                ", speed_limit=" + speedLimit +
                 '}';
     }
 }

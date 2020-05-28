@@ -1,8 +1,9 @@
 package org.springworks;
 
-import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 import org.springworks.entity.WayPoint;
+import org.springworks.entity.deserializer.WayPointDeserializer;
 
 import java.io.File;
 import java.io.Reader;
@@ -15,12 +16,13 @@ import java.util.List;
 public class FileProcessor {
     /**
      * Read the given filename from resources and returns List of waypoints in the file.
+     *
      * @param fileName
      * @return List of WayPoint or Empty list.
      */
     public List<WayPoint> getWayPoints(String fileName) {
         File file = new File(fileName);
-        if (file == null) {
+        if (!file.exists()) {
             System.out.println("File Not Found: " + fileName);
             return Collections.EMPTY_LIST;
         }
@@ -29,6 +31,7 @@ public class FileProcessor {
 
     /**
      * Read the given filename from resources and returns List of waypoints in the file.
+     *
      * @param fileName
      * @return List of WayPoint or Empty list.
      */
@@ -43,7 +46,9 @@ public class FileProcessor {
 
     private List<WayPoint> readFile(File file) {
         try (Reader reader = Files.newBufferedReader(Paths.get(file.getPath()))) {
-            return new Gson().fromJson(reader, new TypeToken<List<WayPoint>>() {}.getType());
+            GsonBuilder gsonBuilder = new GsonBuilder();
+            gsonBuilder.registerTypeAdapter(WayPoint.class, new WayPointDeserializer());
+            return gsonBuilder.create().fromJson(reader, new TypeToken<List<WayPoint>>() {}.getType());
         } catch (Exception ex) {
             System.out.println("Error in reading file content: " + ex.getMessage());
         }
@@ -52,6 +57,7 @@ public class FileProcessor {
 
     /**
      * Read the file from the resources folder.
+     *
      * @param fileName
      * @return
      */

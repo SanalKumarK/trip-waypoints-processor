@@ -1,22 +1,11 @@
 package org.springworks.entity;
 
 public class Position {
-    private double latitude;
-    private double longitude;
+    public final double latitude;
+    public final double longitude;
 
-    public double getLatitude() {
-        return latitude;
-    }
-
-    public void setLatitude(double latitude) {
+    public Position(double latitude, double longitude) {
         this.latitude = latitude;
-    }
-
-    public double getLongitude() {
-        return longitude;
-    }
-
-    public void setLongitude(double longitude) {
         this.longitude = longitude;
     }
 

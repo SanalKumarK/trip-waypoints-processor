@@ -3,8 +3,6 @@ package org.springworks;
 import org.springworks.entity.TripReport;
 import org.springworks.entity.WayPoint;
 
-import java.time.Duration;
-import java.time.Instant;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -22,11 +20,18 @@ public class WayPointsProcessor {
             return null;
         }
 
-        TripReport report = sortWayPoints(wayPoints).stream()
-                .collect(WayPointEvaluator::new, WayPointEvaluator::accept, WayPointEvaluator::combine)
-                .getReport();
-        report.setTotalDuration(getTotalDuration(wayPoints));
-        return report;
+        WayPointAggregator wayPointAggregator = new WayPointAggregator();
+        sortWayPoints(wayPoints).stream()
+                .reduce((wayPoint, wayPoint2) -> {
+                    wayPointAggregator.reduce(wayPoint, wayPoint2);
+                    return wayPoint2;
+                });
+
+        TripReport tripReport = new TripReport(wayPointAggregator.getDistanceSpeeding(),
+                wayPointAggregator.getDurationSpeeding(),
+                wayPointAggregator.getTotalDuration(),
+                wayPointAggregator.getTotalDistance());
+        return tripReport;
     }
 
     /**
@@ -37,22 +42,7 @@ public class WayPointsProcessor {
      */
     private List<WayPoint> sortWayPoints(List<WayPoint> wayPoints) {
         return wayPoints.stream()
-                .sorted(Comparator.comparing(WayPoint::getTimestamp))
+                .sorted(Comparator.comparing(wayPoint -> wayPoint.timestamp))
                 .collect(Collectors.toList());
-    }
-
-    /**
-     * Get total duration of the trip.
-     *
-     * @param wayPoints
-     * @return duration of the trip in seconds.
-     */
-    private long getTotalDuration(List<WayPoint> wayPoints) {
-        if (wayPoints.size() >= 2) {
-            Instant start = wayPoints.get(0).getTimestamp().toInstant();
-            Instant last = wayPoints.get(wayPoints.size() - 1).getTimestamp().toInstant();
-            return (Duration.between(start, last).getSeconds());
-        }
-        return 0;
     }
 }
